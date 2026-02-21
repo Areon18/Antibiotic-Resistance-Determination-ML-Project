@@ -22,6 +22,7 @@ https://www.kaggle.com/datasets/drscarlat/dzd-data
 ## How to Run
 
 1. Install requirements
-2. Load dataset
-3. Run the notebook
-4. Use demo\_prediction() to test input sequences
+2. Load dataset in same folder as other file
+3. Run train.py
+4. Run demo to get a test gene sequance
+5. Run app.py to determine if the gene is antibiotic resistance or not 
