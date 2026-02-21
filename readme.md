@@ -24,5 +24,5 @@ https://www.kaggle.com/datasets/drscarlat/dzd-data
 1. Install requirements
 2. Load dataset in same folder as other file
 3. Run train.py
-4. Run demo to get a test gene sequance
+4. Run demo.py to get a test gene sequance
 5. Run app.py to determine if the gene is antibiotic resistance or not 
