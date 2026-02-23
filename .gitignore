@@ -1,5 +1,8 @@
+#ignoring all stored state of model and pickle files
 *.pkl
 *.npy
 
+
+#this is for creating test data pdf
 create_pdf.py
 Test data.pdf
