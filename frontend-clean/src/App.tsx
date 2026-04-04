@@ -35,7 +35,7 @@ export default function App() {
     try {
       setLoading(true);
 
-      const res = await fetch("http://10.127.58.166:5000/predict", {
+      const res = await fetch("https://antibiotic-resistance-determination-ml.onrender.com/predict", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
